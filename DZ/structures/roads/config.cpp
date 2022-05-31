@@ -2,7 +2,7 @@
 //DeRap: structures_roads\config.bin
 //Produced from mikero's Dos Tools Dll version 8.35
 //https://mikero.bytex.digital/Downloads
-//'now' is Tue May 31 17:05:03 2022 : 'file' last modified on Wed Dec 31 19:00:01 1969
+//'now' is Tue May 31 09:26:46 2022 : 'file' last modified on Wed Dec 31 19:00:01 1969
 ////////////////////////////////////////////////////////////////////
 
 #define _ARMA_
@@ -182,10 +182,10 @@ class CfgVehicles
 		scope = 2;
 		model = "DZ\structures\Roads\Panels\Path_Panels.p3d";
 	};
-	class Static_Path_Panels_Demaged: HouseNoDestruct
+	class Static_Path_Panels_Damaged: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Roads\Panels\Path_Panels_Demaged.p3d";
+		model = "DZ\structures\Roads\Panels\Path_Panels_Damaged.p3d";
 	};
 	class Static_Roads_Partasf1_0_2000: HouseNoDestruct
 	{
