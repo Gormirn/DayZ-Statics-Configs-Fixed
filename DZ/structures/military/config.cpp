@@ -2,7 +2,7 @@
 //DeRap: structures_military\config.bin
 //Produced from mikero's Dos Tools Dll version 8.35
 //https://mikero.bytex.digital/Downloads
-//'now' is Tue May 31 17:04:29 2022 : 'file' last modified on Wed Dec 31 19:00:01 1969
+//'now' is Tue May 31 09:26:11 2022 : 'file' last modified on Wed Dec 31 19:00:01 1969
 ////////////////////////////////////////////////////////////////////
 
 #define _ARMA_
@@ -13885,10 +13885,10 @@ class CfgVehicles
 		scope = 2;
 		model = "DZ\structures\Military\Improvised\Mil_Artilery_Rampart.p3d";
 	};
-	class Static_Mil_Artilery_Nest: HouseNoDestruct
+	class Static_Mil_Artillery_Nest: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Improvised\Mil_Artilery_Nest.p3d";
+		model = "DZ\structures\Military\Improvised\Mil_Artillery_Nest.p3d";
 	};
 	class Static_Mil_CamoNet_Big_east: HouseNoDestruct
 	{
@@ -13958,152 +13958,152 @@ class CfgVehicles
 	class Static_Misc_Antenna: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_Antenna.p3d";
+		model = "DZ\structures\Military\Misc\Misc_Antenna.p3d";
 	};
 	class Static_Misc_BagFence_3m: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_BagFence_3m.p3d";
+		model = "DZ\structures\Military\Misc\Misc_BagFence_3m.p3d";
 	};
 	class Static_Misc_BagFence_Corner: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_BagFence_Corner.p3d";
+		model = "DZ\structures\Military\Misc\Misc_BagFence_Corner.p3d";
 	};
 	class Static_Misc_BagFence_Round: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_BagFence_Round.p3d";
+		model = "DZ\structures\Military\Misc\Misc_BagFence_Round.p3d";
 	};
 	class Static_Misc_Barbedwire: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_Barbedwire.p3d";
+		model = "DZ\structures\Military\Misc\Misc_Barbedwire.p3d";
 	};
 	class Static_Misc_ConcreteBlock1: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_ConcreteBlock1.p3d";
+		model = "DZ\structures\Military\Misc\Misc_ConcreteBlock1.p3d";
 	};
 	class Static_Misc_ConcreteBlock1_End: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_ConcreteBlock1_End.p3d";
+		model = "DZ\structures\Military\Misc\Misc_ConcreteBlock1_End.p3d";
 	};
 	class Static_Misc_ConcreteBlock2: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_ConcreteBlock2.p3d";
+		model = "DZ\structures\Military\Misc\Misc_ConcreteBlock2.p3d";
 	};
 	class Static_Misc_ConcreteBlock2_Damaged: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_ConcreteBlock2_Damaged.p3d";
+		model = "DZ\structures\Military\Misc\Misc_ConcreteBlock2_Damaged.p3d";
 	};
 	class Static_Misc_ConcreteBlock_Stripes: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_ConcreteBlock_Stripes.p3d";
+		model = "DZ\structures\Military\Misc\Misc_ConcreteBlock_Stripes.p3d";
 	};
 	class Static_Misc_Cover_Big: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_Cover_Big.p3d";
+		model = "DZ\structures\Military\Misc\Misc_Cover_Big.p3d";
 	};
 	class Static_Misc_Cover_Small: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_Cover_Small.p3d";
+		model = "DZ\structures\Military\Misc\Misc_Cover_Small.p3d";
 	};
 	class Static_Misc_DragonTeeth: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_DragonTeeth.p3d";
+		model = "DZ\structures\Military\Misc\Misc_DragonTeeth.p3d";
 	};
 	class Static_Misc_DragonTeeth_Big: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_DragonTeeth_Big.p3d";
+		model = "DZ\structures\Military\Misc\Misc_DragonTeeth_Big.p3d";
 	};
 	class Static_Misc_Flagpole: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_Flagpole.p3d";
+		model = "DZ\structures\Military\Misc\Misc_Flagpole.p3d";
 	};
 	class Static_Misc_Gunrack: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_Gunrack.p3d";
+		model = "DZ\structures\Military\Misc\Misc_Gunrack.p3d";
 	};
 	class Static_Misc_Hedgehog_Concrete: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_Hedgehog_Concrete.p3d";
+		model = "DZ\structures\Military\Misc\Misc_Hedgehog_Concrete.p3d";
 	};
 	class Static_Misc_Hedgehog_Iron: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_Hedgehog_Iron.p3d";
+		model = "DZ\structures\Military\Misc\Misc_Hedgehog_Iron.p3d";
 	};
 	class Static_Misc_Obstacle_Bridge: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_Obstacle_Bridge.p3d";
+		model = "DZ\structures\Military\Misc\Misc_Obstacle_Bridge.p3d";
 	};
 	class Static_Misc_Obstacle_Crawl: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_Obstacle_Crawl.p3d";
+		model = "DZ\structures\Military\Misc\Misc_Obstacle_Crawl.p3d";
 	};
 	class Static_Misc_Obstacle_Cross: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_Obstacle_Cross.p3d";
+		model = "DZ\structures\Military\Misc\Misc_Obstacle_Cross.p3d";
 	};
 	class Static_Misc_Obstacle_Pass: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_Obstacle_Pass.p3d";
+		model = "DZ\structures\Military\Misc\Misc_Obstacle_Pass.p3d";
 	};
 	class Static_Misc_Obstacle_Ramp: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_Obstacle_Ramp.p3d";
+		model = "DZ\structures\Military\Misc\Misc_Obstacle_Ramp.p3d";
 	};
 	class Static_Misc_Obstacle_RunAround: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_Obstacle_RunAround.p3d";
+		model = "DZ\structures\Military\Misc\Misc_Obstacle_RunAround.p3d";
 	};
 	class Static_Misc_Range_Line: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_Range_Line.p3d";
+		model = "DZ\structures\Military\Misc\Misc_Range_Line.p3d";
 	};
 	class Static_Misc_Range_Line_dispersions: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_Range_Line_dispersions.p3d";
+		model = "DZ\structures\Military\Misc\Misc_Range_Line_dispersions.p3d";
 	};
 	class Static_Misc_Range_Pistol: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_Range_Pistol.p3d";
+		model = "DZ\structures\Military\Misc\Misc_Range_Pistol.p3d";
 	};
 	class Static_Misc_Range_Roof: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_Range_Roof.p3d";
+		model = "DZ\structures\Military\Misc\Misc_Range_Roof.p3d";
 	};
 	class Static_Misc_Range_Single: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_Range_Single.p3d";
+		model = "DZ\structures\Military\Misc\Misc_Range_Single.p3d";
 	};
 	class Static_Misc_Razorwire: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Houses\Misc_Razorwire.p3d";
+		model = "DZ\structures\Military\Misc\Misc_Razorwire.p3d";
 	};
 	class Static_Tisy_AirShaft: HouseNoDestruct
 	{
