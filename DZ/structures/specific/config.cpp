@@ -2,7 +2,7 @@
 //DeRap: structures_specific\config.bin
 //Produced from mikero's Dos Tools Dll version 8.35
 //https://mikero.bytex.digital/Downloads
-//'now' is Tue May 31 17:05:30 2022 : 'file' last modified on Wed Dec 31 19:00:01 1969
+//'now' is Tue May 31 09:27:13 2022 : 'file' last modified on Wed Dec 31 19:00:01 1969
 ////////////////////////////////////////////////////////////////////
 
 #define _ARMA_
@@ -10842,52 +10842,52 @@ class CfgVehicles
 	class Static_Airfield_Lamp: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Specific\Airfileds\Airfield_Lamp.p3d";
+		model = "DZ\structures\Specific\Airfields\Airfield_Lamp.p3d";
 	};
 	class Static_Airfield_Light_Edge: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Specific\Airfileds\Airfield_Light_Edge.p3d";
+		model = "DZ\structures\Specific\Airfields\Airfield_Light_Edge.p3d";
 	};
 	class Static_Airfield_Light_Navig: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Specific\Airfileds\Airfield_Light_Navig.p3d";
+		model = "DZ\structures\Specific\Airfields\Airfield_Light_Navig.p3d";
 	};
 	class Static_Airfield_Light_PAPI1: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Specific\Airfileds\Airfield_Light_PAPI1.p3d";
+		model = "DZ\structures\Specific\Airfields\Airfield_Light_PAPI1.p3d";
 	};
 	class Static_Airfield_Light_PAPI2: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Specific\Airfileds\Airfield_Light_PAPI2.p3d";
+		model = "DZ\structures\Specific\Airfields\Airfield_Light_PAPI2.p3d";
 	};
 	class Static_Airfield_Light_PAPI3: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Specific\Airfileds\Airfield_Light_PAPI3.p3d";
+		model = "DZ\structures\Specific\Airfields\Airfield_Light_PAPI3.p3d";
 	};
 	class Static_Airfield_Light_PAPI4: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Specific\Airfileds\Airfield_Light_PAPI4.p3d";
+		model = "DZ\structures\Specific\Airfields\Airfield_Light_PAPI4.p3d";
 	};
 	class Static_Airfield_Light_Reflector: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Specific\Airfileds\Airfield_Light_Reflector.p3d";
+		model = "DZ\structures\Specific\Airfields\Airfield_Light_Reflector.p3d";
 	};
 	class Static_Airfield_Light_Control: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Specific\Airfileds\Airfield_Light_Control.p3d";
+		model = "DZ\structures\Specific\Airfields\Airfield_Light_Control.p3d";
 	};
 	class Static_Airfield_Light_Hangar: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Specific\Airfileds\Airfield_Light_Hangar.p3d";
+		model = "DZ\structures\Specific\Airfields\Airfield_Light_Hangar.p3d";
 	};
 	class Static_Cableway_Base_Rope1: HouseNoDestruct
 	{
@@ -11082,17 +11082,17 @@ class CfgVehicles
 	class Static_FueldStation_Feed_NoFuel: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Specific\Fuelstation\FueldStation_Feed_NoFuel.p3d";
+		model = "DZ\structures\Specific\Fuelstation\FuelStation_Feed_NoFuel.p3d";
 	};
 	class Static_FueldStation_Shed: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Specific\Fuelstation\FueldStation_Shed.p3d";
+		model = "DZ\structures\Specific\Fuelstation\FuelStation_Shed.p3d";
 	};
 	class Static_FueldStation_Sign: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Specific\Fuelstation\FueldStation_Sign.p3d";
+		model = "DZ\structures\Specific\Fuelstation\FuelStation_Sign.p3d";
 	};
 	class Static_Hotel_Damaged_Airplane_Back: HouseNoDestruct
 	{
@@ -11144,10 +11144,10 @@ class CfgVehicles
 		scope = 2;
 		model = "DZ\structures\Specific\Skilift\Skilift_Tower_Middle.p3d";
 	};
-	class Static_Skilift_Tower_Middle_Skope: HouseNoDestruct
+	class Static_Skilift_Tower_Middle_Slope: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Specific\Skilift\Skilift_Tower_Middle_Skope.p3d";
+		model = "DZ\structures\Specific\Skilift\Skilift_Tower_Middle_Slope.p3d";
 	};
 	class Static_Skilift_Tower_Start: HouseNoDestruct
 	{
@@ -11164,15 +11164,15 @@ class CfgVehicles
 		scope = 2;
 		model = "DZ\structures\Specific\Statues\Monument_Wall.p3d";
 	};
-	class Static_Monument_Wall1: HouseNoDestruct
+	class Static_Monument_War1: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Specific\Statues\Monument_Wall1.p3d";
+		model = "DZ\structures\Specific\Statues\Monument_War1.p3d";
 	};
-	class Static_Monument_Wall2: HouseNoDestruct
+	class Static_Monument_War2: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Specific\Statues\Monument_Wall2.p3d";
+		model = "DZ\structures\Specific\Statues\Monument_War2.p3d";
 	};
 	class Static_Statue_General: HouseNoDestruct
 	{
