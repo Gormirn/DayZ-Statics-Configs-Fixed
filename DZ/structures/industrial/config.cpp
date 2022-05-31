@@ -2,7 +2,7 @@
 //DeRap: structures_industrial\config.bin
 //Produced from mikero's Dos Tools Dll version 8.35
 //https://mikero.bytex.digital/Downloads
-//'now' is Tue May 31 17:04:09 2022 : 'file' last modified on Wed Dec 31 19:00:01 1969
+//'now' is Tue May 31 09:25:53 2022 : 'file' last modified on Wed Dec 31 19:00:01 1969
 ////////////////////////////////////////////////////////////////////
 
 #define _ARMA_
@@ -12671,122 +12671,138 @@ class CfgVehicles
 	class Static_Boathouse_PierL: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Garages\Boathouse_PierL.p3d";
+		model = "DZ\structures\Industrial\Harbour\Boathouse_PierL.p3d";
 	};
 	class Static_Boathouse_PierR: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Garages\Boathouse_PierR.p3d";
+		model = "DZ\structures\Industrial\Harbour\Boathouse_PierR.p3d";
 	};
 	class Static_Boathouse_PierT: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Garages\Boathouse_PierT.p3d";
+		model = "DZ\structures\Industrial\Harbour\Boathouse_PierT.p3d";
 	};
 	class Static_Pier_Concrete1: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Garages\Pier_Concrete1.p3d";
+		model = "DZ\structures\Industrial\Harbour\Pier_Concrete1.p3d";
 	};
 	class Static_Pier_Concrete1_CornerIn: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Garages\Pier_Concrete1_CornerIn.p3d";
+		model = "DZ\structures\Industrial\Harbour\Pier_Concrete1_CornerIn.p3d";
 	};
 	class Static_Pier_Concrete1_CornerOut: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Garages\Pier_Concrete1_CornerOut.p3d";
+		model = "DZ\structures\Industrial\Harbour\Pier_Concrete1_CornerOut.p3d";
 	};
 	class Static_Pier_Concrete1_End: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Garages\Pier_Concrete1_End.p3d";
+		model = "DZ\structures\Industrial\Harbour\Pier_Concrete1_End.p3d";
 	};
 	class Static_Pier_Concrete1_L: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Garages\Pier_Concrete1_R.p3d";
+		model = "DZ\structures\Industrial\Harbour\Pier_Concrete1_L.p3d";
 	};
 	class Static_Pier_Concrete1_L10: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Garages\Pier_Concrete1_R10.p3d";
+		model = "DZ\structures\Industrial\Harbour\Pier_Concrete1_L10.p3d";
 	};
 	class Static_Pier_Concrete1_L30: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Garages\Pier_Concrete1_R30.p3d";
+		model = "DZ\structures\Industrial\Harbour\Pier_Concrete1_L30.p3d";
+	};
+
+	class Static_Pier_Concrete1_R: HouseNoDestruct
+	{
+		scope = 2;
+		model = "DZ\structures\Industrial\Harbour\Pier_Concrete1_R.p3d";
+	};
+	class Static_Pier_Concrete1_R10: HouseNoDestruct
+	{
+		scope = 2;
+		model = "DZ\structures\Industrial\Harbour\Pier_Concrete1_R10.p3d";
+	};
+	class Static_Pier_Concrete1_R30: HouseNoDestruct
+	{
+		scope = 2;
+		model = "DZ\structures\Industrial\Harbour\Pier_Concrete1_R30.p3d";
 	};
 	class Static_Pier_Concrete1_TBig: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Garages\Pier_Concrete1_TBig.p3d";
+		model = "DZ\structures\Industrial\Harbour\Pier_Concrete1_TBig.p3d";
 	};
 	class Static_Pier_Concrete1_TSmall: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Garages\Pier_Concrete1_TSmall.p3d";
+		model = "DZ\structures\Industrial\Harbour\Pier_Concrete1_TSmall.p3d";
 	};
 	class Static_Pier_Concrete2: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Garages\Pier_Concrete2.p3d";
+		model = "DZ\structures\Industrial\Harbour\Pier_Concrete2.p3d";
 	};
 	class Static_Pier_Concrete2_End: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Garages\Pier_Concrete2_End.p3d";
+		model = "DZ\structures\Industrial\Harbour\Pier_Concrete2_End.p3d";
 	};
 	class Static_Pier_Concrete3_1: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Garages\Pier_Concrete3_1.p3d";
+		model = "DZ\structures\Industrial\Harbour\Pier_Concrete3_1.p3d";
 	};
 	class Static_Pier_Concrete3_2: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Garages\Pier_Concrete3_2.p3d";
+		model = "DZ\structures\Industrial\Harbour\Pier_Concrete3_2.p3d";
 	};
 	class Static_Pier_Concrete3_End: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Garages\Pier_Concrete3_End.p3d";
+		model = "DZ\structures\Industrial\Harbour\Pier_Concrete3_End.p3d";
 	};
 	class Static_Pier_Concrete3_Fuel: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Garages\Pier_Concrete3_Fuel.p3d";
+		model = "DZ\structures\Industrial\Harbour\Pier_Concrete3_Fuel.p3d";
 	};
 	class Static_Pier_Crane_Rails: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Garages\Pier_Crane_Rails.p3d";
+		model = "DZ\structures\Industrial\Harbour\Pier_Crane_Rails.p3d";
 	};
 	class Static_Pier_Crane_Rails_End: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Garages\Pier_Crane_Rails_End.p3d";
+		model = "DZ\structures\Industrial\Harbour\Pier_Crane_Rails_End.p3d";
 	};
 	class Static_Pier_Tube_Big: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Garages\Pier_Tube_Big.p3d";
+		model = "DZ\structures\Industrial\Harbour\Pier_Tube_Big.p3d";
 	};
 	class Static_Pier_Tube_Small: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Garages\Pier_Tube_Small.p3d";
+		model = "DZ\structures\Industrial\Harbour\Pier_Tube_Small.p3d";
 	};
 	class Static_Pier_Wooden1: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Garages\Pier_Wooden1.p3d";
+		model = "DZ\structures\Industrial\Harbour\Pier_Wooden1.p3d";
 	};
 	class Static_Pier_Wooden1_End: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Garages\Pier_Wooden1_End.p3d";
+		model = "DZ\structures\Industrial\Harbour\Pier_Wooden1_End.p3d";
 	};
 	class Static_Workshop_Box: HouseNoDestruct
 	{
@@ -13313,57 +13329,57 @@ class CfgVehicles
 	class Static_Container_1Aoh_DE: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Container_1aoh.p3d";
+		model = "DZ\structures\Industrial\Containers\Container_1aoh.p3d";
 	};
 	class Static_Container_1Bo_DE: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Container_1Bo.p3d";
+		model = "DZ\structures\Industrial\Containers\Container_1Bo.p3d";
 	};
 	class Static_Container_1Mo_DE: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Container_2mo.p3d";
+		model = "DZ\structures\Industrial\Containers\Container_2mo.p3d";
 	};
 	class Static_Container_1Moh_DE: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Container_2moh.p3d";
+		model = "DZ\structures\Industrial\Containers\Container_2moh.p3d";
 	};
 	class Static_Container_1C_DE: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Container_1C.p3d";
+		model = "DZ\structures\Industrial\Containers\Container_1C.p3d";
 	};
 	class Static_Container_1D_DE: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Container_1D.p3d";
+		model = "DZ\structures\Industrial\Containers\Container_1D.p3d";
 	};
 	class Static_Container_2A_DE: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Container_2A.p3d";
+		model = "DZ\structures\Industrial\Containers\Container_2A.p3d";
 	};
 	class Static_Container_2B_DE: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Container_2B.p3d";
+		model = "DZ\structures\Industrial\Containers\Container_2B.p3d";
 	};
 	class Static_Container_2C_DE: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Container_2C.p3d";
+		model = "DZ\structures\Industrial\Containers\Container_2C.p3d";
 	};
 	class Static_Container_2D_DE: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Container_2D.p3d";
+		model = "DZ\structures\Industrial\Containers\Container_2D.p3d";
 	};
 	class Static_Container_2E_DE: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Container_2E.p3d";
+		model = "DZ\structures\Industrial\Containers\Container_2E.p3d";
 	};
 	class Land_Container_1Aoh_DE: Land_Container_1Aoh
 	{
