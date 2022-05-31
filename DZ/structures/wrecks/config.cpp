@@ -2,7 +2,7 @@
 //DeRap: structures_wrecks\config.bin
 //Produced from mikero's Dos Tools Dll version 8.35
 //https://mikero.bytex.digital/Downloads
-//'now' is Tue May 31 17:05:45 2022 : 'file' last modified on Wed Dec 31 19:00:01 1969
+//'now' is Tue May 31 09:27:26 2022 : 'file' last modified on Wed Dec 31 19:00:01 1969
 ////////////////////////////////////////////////////////////////////
 
 #define _ARMA_
@@ -992,60 +992,60 @@ class CfgVehicles
 		scope = 2;
 		model = "DZ\structures\Wrecks\Aircraft\Wreck_UH1Y.p3d";
 	};
-	class Static_Wreck_t_Small1: HouseNoDestruct
+	class Static_Wreck_Boat_Small1: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Wrecks\Ships\t_Small1.p3d";
+		model = "DZ\structures\Wrecks\Ships\Boat_Small1.p3d";
 	};
-	class Static_Wreck_t_Small2: HouseNoDestruct
+	class Static_Wreck_Boat_Small2: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Wrecks\Ships\t_Small2.p3d";
+		model = "DZ\structures\Wrecks\Ships\Boat_Small2.p3d";
 	};
-	class Static_Wreck_t_Small3: HouseNoDestruct
+	class Static_Wreck_Boat_Small3: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Wrecks\Ships\t_Small3.p3d";
+		model = "DZ\structures\Wrecks\Ships\Boat_Small3.p3d";
 	};
-	class Static_Wreck_p_Big_BackA: HouseNoDestruct
+	class Static_Wreck_Ship_Big_BackA: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Wrecks\Ships\p_Big_BackA.p3d";
+		model = "DZ\structures\Wrecks\Ships\Ship_Big_BackA.p3d";
 	};
-	class Static_Wreck_p_Big_BackB: HouseNoDestruct
+	class Static_Wreck_Ship_Big_BackB: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Wrecks\Ships\p_Big_BackB.p3d";
+		model = "DZ\structures\Wrecks\Ships\Ship_Big_BackB.p3d";
 	};
-	class Static_Wreck_p_Big_Castle: HouseNoDestruct
+	class Static_Wreck_Ship_Big_Castle: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Wrecks\Ships\p_Big_Castle.p3d";
+		model = "DZ\structures\Wrecks\Ships\Ship_Big_Castle.p3d";
 	};
-	class Static_Wreck_p_Big_FrontA: HouseNoDestruct
+	class Static_Wreck_Ship_Big_FrontA: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Wrecks\Ships\p_Big_FrontA.p3d";
+		model = "DZ\structures\Wrecks\Ships\Ship_Big_FrontA.p3d";
 	};
-	class Static_Wreck_p_Big_FrontB: HouseNoDestruct
+	class Static_Wreck_Ship_Big_FrontB: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Wrecks\Ships\p_Big_FrontB.p3d";
+		model = "DZ\structures\Wrecks\Ships\Ship_Big_FrontB.p3d";
 	};
-	class Static_Wreck_p_Big_Lifeboat: HouseNoDestruct
+	class Static_Wreck_Ship_Big_Lifeboat: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Wrecks\Ships\p_Big_Lifeboat.p3d";
+		model = "DZ\structures\Wrecks\Ships\Ship_Big_Lifeboat.p3d";
 	};
-	class Static_Wreck_p_Medium_Back: HouseNoDestruct
+	class Static_Wreck_Ship_Medium_Back: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Wrecks\Ships\p_Medium_Back.p3d";
+		model = "DZ\structures\Wrecks\Ships\Ship_Medium_Back.p3d";
 	};
-	class Static_Wreck_p_Medium_Front: HouseNoDestruct
+	class Static_Wreck_Ship_Medium_Front: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Wrecks\Ships\p_Medium_Front.p3d";
+		model = "DZ\structures\Wrecks\Ships\Ship_Medium_Front.p3d";
 	};
 	class Static_Wreck_Train_742_Blue: HouseNoDestruct
 	{
