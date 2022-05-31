@@ -2,7 +2,7 @@
 //DeRap: structures_residential\config.bin
 //Produced from mikero's Dos Tools Dll version 8.35
 //https://mikero.bytex.digital/Downloads
-//'now' is Tue May 31 17:04:48 2022 : 'file' last modified on Wed Dec 31 19:00:01 1969
+//'now' is Tue May 31 09:26:28 2022 : 'file' last modified on Wed Dec 31 19:00:01 1969
 ////////////////////////////////////////////////////////////////////
 
 #define _ARMA_
@@ -34984,10 +34984,10 @@ class CfgVehicles
 		scope = 2;
 		model = "DZ\structures\Residential\Platforms\Platform1_Stairs_30.p3d";
 	};
-	class Static_Platform1_Stairs_30_Wall: HouseNoDestruct
+	class Static_Platform1_Stairs_30_WallL: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Residential\Platforms\Platform1_Stairs_30_Wall.p3d";
+		model = "DZ\structures\Residential\Platforms\Platform1_Stairs_30_WallL.p3d";
 	};
 	class Static_Platform1_Stairs_30_WallR: HouseNoDestruct
 	{
