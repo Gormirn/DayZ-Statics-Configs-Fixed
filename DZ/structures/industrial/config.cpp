@@ -12824,10 +12824,10 @@ class CfgVehicles
 		scope = 2;
 		model = "DZ\structures\Industrial\Mines\Mine_Conveyer1_EndBuild.p3d";
 	};
-	class Static_Mine_Conveyer1_Build: HouseNoDestruct
+	class Static_Mine_Conveyer2_Build: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Mines\Mine_Conveyer1_Build.p3d";
+		model = "DZ\structures\Industrial\Mines\Mine_Conveyer2_Build.p3d";
 	};
 	class Static_Mine_Heap: HouseNoDestruct
 	{

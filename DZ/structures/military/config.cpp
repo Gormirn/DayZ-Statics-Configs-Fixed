@@ -13825,35 +13825,35 @@ class CfgVehicles
 		scope = 2;
 		model = "DZ\structures\Military\Airfield\Mil_Radar_Mobile3_Reinforced.p3d";
 	};
-	class Static_Mil_Reinforced_Tank1: HouseNoDestruct
+	class Static_Mil_ReinforcedTank1: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Airfield\Mil_Reinforced_Tank1.p3d";
+		model = "DZ\structures\Military\Airfield\Mil_ReinforcedTank1.p3d";
 	};
-	class Static_Mil_Reinforced_Tank1_Grass: HouseNoDestruct
+	class Static_Mil_ReinforcedTank1_Grass: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Airfield\Mil_Reinforced_Tank1_Grass.p3d";
+		model = "DZ\structures\Military\Airfield\Mil_ReinforcedTank1_Grass.p3d";
 	};
-	class Static_Mil_Reinforced_Tank2: HouseNoDestruct
+	class Static_Mil_ReinforcedTank2: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Airfield\Mil_Reinforced_Tank2.p3d";
+		model = "DZ\structures\Military\Airfield\Mil_ReinforcedTank2.p3d";
 	};
-	class Static_Mil_Reinforced_Tank2_Grass_L: HouseNoDestruct
+	class Static_Mil_ReinforcedTank2_Grass_L: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Airfield\Mil_Reinforced_Tank2_Grass_L.p3d";
+		model = "DZ\structures\Military\Airfield\Mil_ReinforcedTank2_Grass_L.p3d";
 	};
-	class Static_Mil_Reinforced_Tank2_Grass_R: HouseNoDestruct
+	class Static_Mil_ReinforcedTank2_Grass_R: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Airfield\Mil_Reinforced_Tank2_Grass_R.p3d";
+		model = "DZ\structures\Military\Airfield\Mil_ReinforcedTank2_Grass_R.p3d";
 	};
-	class Static_Mil_Reinforced_Tank2_Grass_Top: HouseNoDestruct
+	class Static_Mil_ReinforcedTank2_Grass_Top: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Military\Airfield\Mil_Reinforced_Tank2_Grass_Top.p3d";
+		model = "DZ\structures\Military\Airfield\Mil_ReinforcedTank2_Grass_Top.p3d";
 	};
 	class Static_Mil_HBarrier_1m: HouseNoDestruct
 	{
