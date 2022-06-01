@@ -547,10 +547,10 @@ class CfgVehicles
 		scope = 2;
 		model = "DZ\structures\Furniture\Lighting\light_kitchen_03\light_kitchen_03.p3d";
 	};
-	class Static_Furniture_luxury_lamp: HouseNoDestruct
+	class Static_Furniture_lamp: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Furniture\Lighting\luxury_lamp\luxury_lamp.p3d";
+		model = "DZ\structures\Furniture\Lighting\luxury_lamp\lamp.p3d";
 	};
 	class Static_Furniture_Luxury_light: HouseNoDestruct
 	{
@@ -852,7 +852,7 @@ class CfgVehicles
 		scope = 2;
 		model = "DZ\structures\Furniture\Tables\office_table_a\office_table_a.p3d";
 	};
-	class Static_Furniture_stul_kuch_1: HouseNoDestruct
+	class Static_Furniture_stul_kuch1: HouseNoDestruct
 	{
 		scope = 2;
 		model = "DZ\structures\Furniture\Tables\stul_kuch_1\stul_kuch1.p3d";

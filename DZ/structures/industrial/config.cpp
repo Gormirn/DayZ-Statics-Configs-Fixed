@@ -12576,7 +12576,7 @@ class CfgVehicles
 	class Static_CoalPlant_Conveyor: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Coalplant\CoalPlant_Conveyors.p3d";
+		model = "DZ\structures\Industrial\Coalplant\CoalPlant_Conveyor.p3d";
 	};
 	class Static_CoalPlant_LoadingHouse: HouseNoDestruct
 	{
@@ -12633,40 +12633,40 @@ class CfgVehicles
 		scope = 2;
 		model = "DZ\structures\Industrial\Dams\Dam_Concrete_40.p3d";
 	};
-	class Static_Barn_CowshedA: HouseNoDestruct
+	class Static_Farm_CowshedA: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Farms\Barn_CowshedA.p3d";
+		model = "DZ\structures\Industrial\Farms\Farm_CowshedA.p3d";
 	};
-	class Static_Barn_CowshedB: HouseNoDestruct
+	class Static_Farm_CowshedB: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Farms\Barn_CowshedB.p3d";
+		model = "DZ\structures\Industrial\Farms\Farm_CowshedB.p3d";
 	};
-	class Static_Barn_CowshedC: HouseNoDestruct
+	class Static_Farm_CowshedC: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Farms\Barn_CowshedC.p3d";
+		model = "DZ\structures\Industrial\Farms\Farm_CowshedC.p3d";
 	};
-	class Static_Barn_Hopper: HouseNoDestruct
+	class Static_Farm_Hopper: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Farms\Barn_Hopper.p3d";
+		model = "DZ\structures\Industrial\Farms\Farm_Hopper.p3d";
 	};
-	class Static_Barn_StrawStack: HouseNoDestruct
+	class Static_Farm_StrawStack: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Farms\Barn_StrawStack.p3d";
+		model = "DZ\structures\Industrial\Farms\Farm_StrawStack.p3d";
 	};
-	class Static_Barn_WaterTower: HouseNoDestruct
+	class Static_Farm_WaterTower: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Farms\Barn_WaterTower.p3d";
+		model = "DZ\structures\Industrial\Farms\Farm_WaterTower.p3d";
 	};
-	class Static_Barn_WaterTower_Small: HouseNoDestruct
+	class Static_Farm_WaterTower_Small: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Industrial\Farms\Barn_WaterTower_Small.p3d";
+		model = "DZ\structures\Industrial\Farms\Farm_WaterTower_Small.p3d";
 	};
 	class Static_Boathouse_PierL: HouseNoDestruct
 	{

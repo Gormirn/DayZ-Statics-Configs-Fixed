@@ -10879,15 +10879,15 @@ class CfgVehicles
 		scope = 2;
 		model = "DZ\structures\Specific\Airfields\Airfield_Light_Reflector.p3d";
 	};
-	class Static_Airfield_Light_Control: HouseNoDestruct
+	class Static_Airfield_Small_Control: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Specific\Airfields\Airfield_Light_Control.p3d";
+		model = "DZ\structures\Specific\Airfields\Airfield_Small_Control.p3d";
 	};
-	class Static_Airfield_Light_Hangar: HouseNoDestruct
+	class Static_Airfield_Small_Hangar: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Specific\Airfields\Airfield_Light_Hangar.p3d";
+		model = "DZ\structures\Specific\Airfields\Airfield_Small_Hangar.p3d";
 	};
 	class Static_Cableway_Base_Rope1: HouseNoDestruct
 	{
@@ -11079,17 +11079,17 @@ class CfgVehicles
 		scope = 2;
 		model = "DZ\structures\Specific\DeadBodies\Hanged_doctor.p3d";
 	};
-	class Static_FueldStation_Feed_NoFuel: HouseNoDestruct
+	class Static_FuelStation_Feed_NoFuel: HouseNoDestruct
 	{
 		scope = 2;
 		model = "DZ\structures\Specific\Fuelstation\FuelStation_Feed_NoFuel.p3d";
 	};
-	class Static_FueldStation_Shed: HouseNoDestruct
+	class Static_FuelStation_Shed: HouseNoDestruct
 	{
 		scope = 2;
 		model = "DZ\structures\Specific\Fuelstation\FuelStation_Shed.p3d";
 	};
-	class Static_FueldStation_Sign: HouseNoDestruct
+	class Static_FuelStation_Sign: HouseNoDestruct
 	{
 		scope = 2;
 		model = "DZ\structures\Specific\Fuelstation\FuelStation_Sign.p3d";
@@ -11104,20 +11104,20 @@ class CfgVehicles
 		scope = 2;
 		model = "DZ\structures\Specific\Hotel\Hotel_Damaged_Airplane_Wing.p3d";
 	};
-	class Static_Hotel_Damaged_Airplane_Decal1: HouseNoDestruct
+	class Static_Hotel_Damaged_Decal1: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Specific\Hotel\Hotel_Damaged_Airplane_Decal1.p3d";
+		model = "DZ\structures\Specific\Hotel\Hotel_Damaged_Decal1.p3d";
 	};
-	class Static_Hotel_Damaged_Airplane_Decal2: HouseNoDestruct
+	class Static_Hotel_Damaged_Decal2: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Specific\Hotel\Hotel_Damaged_Airplane_Decal2.p3d";
+		model = "DZ\structures\Specific\Hotel\Hotel_Damaged_Decal2.p3d";
 	};
-	class Static_Hotel_Damaged_Airplane_Rubble: HouseNoDestruct
+	class Static_Hotel_Damaged_Rubble: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Specific\Hotel\Hotel_Damaged_Airplane_Rubble.p3d";
+		model = "DZ\structures\Specific\Hotel\Hotel_Damaged_Rubble.p3d";
 	};
 	class Static_Skilift_Rope_End: HouseNoDestruct
 	{
