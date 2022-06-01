@@ -282,15 +282,15 @@ class CfgVehicles
 		scope = 2;
 		model = "DZ\structures\Furniture\Decoration\carpet_big\carpet_big.p3d";
 	};
-	class Static_Furniture_flowers_01: HouseNoDestruct
+	class Static_Furniture_flower_01: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Furniture\Decoration\Flowers\flowers_01.p3d";
+		model = "DZ\structures\Furniture\Decoration\Flowers\flower_01.p3d";
 	};
-	class Static_Furniture_flowers_02: HouseNoDestruct
+	class Static_Furniture_flower_02: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Furniture\Decoration\Flowers\flowers_02.p3d";
+		model = "DZ\structures\Furniture\Decoration\Flowers\flower_02.p3d";
 	};
 	class Static_Furniture_lekarnicka: HouseNoDestruct
 	{
@@ -305,102 +305,102 @@ class CfgVehicles
 	class Static_Furniture_picture_a: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_a.p3d";
+		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_a\picture_a.p3d";
 	};
 	class Static_Furniture_picture_a_02: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_a_02.p3d";
+		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_a_02\picture_a_02.p3d";
 	};
 	class Static_Furniture_picture_a_03: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_a_03.p3d";
+		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_a_03\picture_a_03.p3d";
 	};
 	class Static_Furniture_picture_a_04: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_a_04.p3d";
+		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_a_04\picture_a_04.p3d";
 	};
 	class Static_Furniture_picture_a_05: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_a_05.p3d";
+		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_a_05\picture_a_05.p3d";
 	};
 	class Static_Furniture_picture_b: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_b.p3d";
+		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_b\picture_b.p3d";
 	};
 	class Static_Furniture_picture_b_02: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_b_02.p3d";
+		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_b_02\picture_b_02.p3d";
 	};
 	class Static_Furniture_picture_c: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_c.p3d";
+		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_c\picture_c.p3d";
 	};
 	class Static_Furniture_picture_c_02: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_c_02.p3d";
+		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_c_02\picture_c_02.p3d";
 	};
 	class Static_Furniture_picture_d: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_d.p3d";
+		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_d\picture_d.p3d";
 	};
 	class Static_Furniture_picture_d_02: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_d_02.p3d";
+		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_d_02\picture_d_02.p3d";
 	};
 	class Static_Furniture_picture_e: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_e.p3d";
+		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_e\picture_e.p3d";
 	};
 	class Static_Furniture_picture_e_02: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_e_02.p3d";
+		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_e_02\picture_e_02.p3d";
 	};
 	class Static_Furniture_picture_f: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_f.p3d";
+		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_f\picture_f.p3d";
 	};
 	class Static_Furniture_picture_f_02: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_f_02.p3d";
+		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_f_02\picture_f_02.p3d";
 	};
 	class Static_Furniture_picture_g: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_g.p3d";
+		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_g\picture_g.p3d";
 	};
 	class Static_Furniture_picture_g_02: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_g_02.p3d";
+		model = "DZ\structures\Furniture\Decoration\WallBoards\picture_g_02\picture_g_02.p3d";
 	};
 	class Static_Furniture_wall_board: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Furniture\Decoration\WallBoards\wall_board.p3d";
+		model = "DZ\structures\Furniture\Decoration\WallBoards\wall_board\wall_board.p3d";
 	};
 	class Static_Furniture_wall_board_02: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Furniture\Decoration\WallBoards\wall_board_02.p3d";
+		model = "DZ\structures\Furniture\Decoration\WallBoards\wall_board_02\wall_board_02.p3d";
 	};
 	class Static_Furniture_wall_board_03: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Furniture\Decoration\WallBoards\wall_board_03.p3d";
+		model = "DZ\structures\Furniture\Decoration\WallBoards\wall_board_03\wall_board_03.p3d";
 	};
 	class Static_Furniture_pc: HouseNoDestruct
 	{
@@ -845,7 +845,7 @@ class CfgVehicles
 	class Static_Furniture_office_desk: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Furniture\Tables\office_desk\office_desk.p3d";
+		model = "DZ\structures\Furniture\Tables\office_desk\desk_office.p3d";
 	};
 	class Static_Furniture_office_table_a: HouseNoDestruct
 	{
@@ -855,7 +855,7 @@ class CfgVehicles
 	class Static_Furniture_stul_kuch_1: HouseNoDestruct
 	{
 		scope = 2;
-		model = "DZ\structures\Furniture\Tables\stul_kuch_1\stul_kuch_1.p3d";
+		model = "DZ\structures\Furniture\Tables\stul_kuch_1\stul_kuch1.p3d";
 	};
 	class Static_Furniture_table_drawer: HouseNoDestruct
 	{
